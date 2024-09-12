@@ -1,5 +1,5 @@
 # resumo_Github
-(**)Git, GitHub & VSCode
+Git, GitHub & VSCode
 
 Durante o desenvolvimento de projetos web em equipe, é essencial seguir boas práticas de documentação e versionamento. O versionamento é controlado por sistemas de controle de versões, que são utilizados para gerenciar diferentes versões e o histórico de desenvolvimento do código.
 
