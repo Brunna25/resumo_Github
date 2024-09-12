@@ -1,4 +1,4 @@
-# resumo_Github
+# Resumo_Github
 # Git, GitHub & VSCode
 
 Durante o desenvolvimento de projetos web em equipe, é essencial seguir boas práticas de documentação e versionamento. O versionamento é controlado por sistemas de controle de versões, que são utilizados para gerenciar diferentes versões e o histórico de desenvolvimento do código.
@@ -20,19 +20,18 @@ Branch: Ramificação do repositório onde diferentes desenvolvedores podem trab
 # Merge:
 Processo de integração das mudanças feitas em uma branch para a ramificação principal.
 
-(**)README.md:
+# README.md:
 Arquivo de documentação que contém informações necessárias para entender o objetivo do projeto.
 Comandos Básicos
 
 # Criar um repositório no GitHub:
-
 No perfil do GitHub, clique em “Your repositories” e depois em “New”.
 Escolha um nome para o repositório, defina o nível de privacidade e adicione um README file. Clique em “Create repository”.
 
-Fork: 
+# Fork: 
 Copiar um repositório para sua conta pessoal no GitHub, permitindo consultas e contribuições.
 
-Clonar um repositório:
+# Clonar um repositório:
 Acesse o repositório no GitHub e clique em “Clone or download”.
 Copie a URL.
 No terminal, navegue até a pasta desejada e execute git clone URL-do-repositorio.
